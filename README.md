@@ -2,6 +2,7 @@
 
 
 
+![5-Stage-Pipelined-MIPS](https://github.com/ANKURJUEE/mips-32-bit-5-stage-pipelined-processor/assets/143562100/94b9f814-27a5-4fe7-b277-542d1bbf04a4)
 
  The MIPS processor is a Reduced Instruction Set Computer (RISC) processor. MIPS stands for Microprocessor without Interlocked Pipelined Stages. MIPS processors were designed in 1984 by researchers at Stanford University. The first MIPS microprocessor, the R2000, was announced in 1985.
 MIPS processors use a technique called pipelining to process instructions more efficiently. They use 32 registers, each 32 bits wide. The MIPS instruction set consists of about 111 total instructions, each represented in 32 bits.
