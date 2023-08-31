@@ -31,14 +31,12 @@ The MIPS processor has a 32-bit architecture with 32-bit instructions, data, and
 4)Memory Access (MEM)
 5)Write Back (WB)
 The 5 stages execute consecutive instructions simultaneously. The MIPS processor supports most MIPS instructions and solves every hazard with stall.
-![86129a66-36c7-4b47-91ba-03bff3c19d0e](https://github.com/ANKURJUEE/mips-32-bit-5-stage-pipelined-processor/assets/143562100/8ad0627e-2520-46c4-922a-43a0e8da61db)
-![e23bc2d0-6162-44c8-bf23-14e45c027abf](https://github.com/ANKURJUEE/mips-32-bit-5-stage-pipelined-processor/assets/143562100/adce3841-f541-4a2d-b17d-bd36673b1a33)
-![9fcf4118-3f31-4603-be6e-a723bc47e4d4](https://github.com/ANKURJUEE/mips-32-bit-5-stage-pipelined-processor/assets/143562100/7eca9918-7225-4a90-be5e-db9a4c821948)
-
-
 
 
 TESTBENCH:
 The first example is a very simple
 one, this says that we add 3 numbers 10, 20 and 30 in decimal, they are all stored in
 processor registers.
+![86129a66-36c7-4b47-91ba-03bff3c19d0e](https://github.com/ANKURJUEE/mips-32-bit-5-stage-pipelined-processor/assets/143562100/6b7a00ae-b0cc-4604-bb96-26568fb661ed)
+![e23bc2d0-6162-44c8-bf23-14e45c027abf](https://github.com/ANKURJUEE/mips-32-bit-5-stage-pipelined-processor/assets/143562100/5010d890-a9fe-4553-8cf5-363c723d1f7c)
+![9fcf4118-3f31-4603-be6e-a723bc47e4d4](https://github.com/ANKURJUEE/mips-32-bit-5-stage-pipelined-processor/assets/143562100/42f1fcda-ea0b-4fc1-a595-6548a2ebcbf0)
